@@ -6,5 +6,25 @@ namespace Tugas_Week_3
         {
             InitializeComponent();
         }
+
+        private void buttonA_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonB_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonC_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonD_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
