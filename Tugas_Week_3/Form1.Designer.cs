@@ -66,6 +66,7 @@
             textStatus.Name = "textStatus";
             textStatus.Size = new Size(319, 39);
             textStatus.TabIndex = 2;
+            textStatus.TextChanged += textStatus_TextChanged;
             // 
             // buttonA
             // 

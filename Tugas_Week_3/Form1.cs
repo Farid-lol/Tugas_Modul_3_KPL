@@ -9,20 +9,25 @@ namespace Tugas_Week_3
 
         private void buttonA_Click(object sender, EventArgs e)
         {
-
+            textStatus.Text = "Jawaban Benar";
         }
 
         private void buttonB_Click(object sender, EventArgs e)
         {
-
+            textStatus.Text = "Jawaban salah";
         }
 
         private void buttonC_Click(object sender, EventArgs e)
         {
-
+            textStatus.Text = "Jawaban salah";
         }
 
         private void buttonD_Click(object sender, EventArgs e)
+        {
+            textStatus.Text = "Jawaban salah";
+        }
+
+        private void textStatus_TextChanged(object sender, EventArgs e)
         {
 
         }
